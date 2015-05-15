@@ -3,7 +3,7 @@ Contributors: GregRoss
 Tags: Windows 8, Internet Explorer, IE10, IE11, live tile, RSS, App, tiles, start screen, pinned site, branding, favicon, apple, icons, Android, Windows Phone 8.1, WebApp, web app
 Requires at least: 3.5
 Tested up to: 4.2
-Stable tag: 1.6
+Stable tag: 1.7
 Description: Integrate your site in to your users OS, Windows Live Tiles, icons for Apple and Android, iOS Web App!
 License: GPLv2
 
@@ -57,34 +57,42 @@ The Image Magic code is still in development and may not function at this time.
 
 == Changelog ==
 = 1.7 =
+* Release date: December 6, 2014
 * Added: If no wide image is provided, one will be auto generated based on the square image being centred in the wide icon.
 * Added: Check to see if both images are readable before compositing them together (avoid fatal errors if an intermediate image failed to be created correctly).
 
 = 1.6 =
+* Release date: September 9, 2014
 * Updated: Widget code now adheres to WordPress standards.
 * Fixed: Missing quotation marks around DEFINE name which caused a WP_DEBUG message.
 * Removed: Screen shots from the distribution archive and in to the WordPress assets directory.
 
 = 1.5 =
+* Release date: June 5, 2014
 * Fixed issue with ios icons being 'forgotten' if you changed settings with an image rebuild required.
 * Added support for link overriding in WebApp mode
 
 = 1.2 =
+* Release date: May 29, 2014
 * Added widget to let users know they can bookmark or pin the site.
 
 = 1.1 =
+* Release date: April 23, 2014
 * Added support for iOS icon and WebApp titles.
 * Tested with Windows Phone 8.1 Live Tiles.
 * Tested with WordPress 3.9.
 
 = 1.0 =
+* Release date: April 3, 2014
 * Incremented version to 1.0.
 
 = 0.6 =
+* Release date: March 25, 2014
 * Fixed: iOS image settings not saving correctly.
 * Fixed: iOS html output not being generated.
 
 = 0.5 =
+* Release date: March 21, 2014
 * Initial code.
 
 == Upgrade Notice ==
